@@ -1,0 +1,16 @@
+{
+  "ReRoutes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "Shop",
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      "UpstreamPathTemplate": "shop/{url}",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "ReRoutesCaseSensitive": false
+    }
+  ]
+}

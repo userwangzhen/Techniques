@@ -1,0 +1,20 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": false,
+      "DownstreamPathTemplate": "/{url}",
+      "DownstreamScheme": "http",
+      "ServiceName": "Shop",
+      "DownstreamHostAndPorts": {
+        "Host": "118.178.252.149",
+        "Port": 200
+      },
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      },
+      "UpstreamPathTemplate": "shop/{url}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+     // "ReRoutesCaseSensitive": false
+    }
+  ]
+}

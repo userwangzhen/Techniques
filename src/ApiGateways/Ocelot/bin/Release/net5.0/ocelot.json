@@ -1,0 +1,32 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "118.178.252.149",
+          "Port": 200
+        }
+      ],
+      "UpstreamPathTemplate": "/shop/{url}",
+      "UpstreamHttpMethod": [ "Get","Post" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/{url}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "118.178.252.149",
+          "Port": 201
+        }
+      ],
+      "UpstreamPathTemplate": "/identity/{url}",
+      "UpstreamHttpMethod": [ "Get","Post" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+
+  }
+}
