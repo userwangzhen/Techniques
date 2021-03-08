@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\Shop.Api.csproj": {}
+    "C:\\Project\\Techniques\\src\\Services\\Shop\\Shop.Api.csproj": {}
   },
   "projects": {
-    "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\Shop.Api.csproj": {
+    "C:\\Project\\Techniques\\src\\Services\\Shop\\Shop.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
+        "projectUniqueName": "C:\\Project\\Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
         "projectName": "Shop.Api",
-        "projectPath": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
+        "projectPath": "C:\\Project\\Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\obj\\",
+        "outputPath": "C:\\Project\\Techniques\\src\\Services\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\WangZhen.Techniques\\src\\Services\\Auth\\Auth.Api.csproj": {}
+    "C:\\Project\\Techniques\\src\\Services\\Auth\\Auth.Api.csproj": {}
   },
   "projects": {
-    "C:\\Project\\WangZhen.Techniques\\src\\Services\\Auth\\Auth.Api.csproj": {
+    "C:\\Project\\Techniques\\src\\Services\\Auth\\Auth.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Auth\\Auth.Api.csproj",
+        "projectUniqueName": "C:\\Project\\Techniques\\src\\Services\\Auth\\Auth.Api.csproj",
         "projectName": "Auth.Api",
-        "projectPath": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Auth\\Auth.Api.csproj",
+        "projectPath": "C:\\Project\\Techniques\\src\\Services\\Auth\\Auth.Api.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Auth\\obj\\",
+        "outputPath": "C:\\Project\\Techniques\\src\\Services\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

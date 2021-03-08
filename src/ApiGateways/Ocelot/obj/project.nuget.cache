@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tMAk0LVtzEOjA7zLbyMNPjbkF5tFe2dXcLS0/DxPMfnip5h9W2U9UyU1RXB9MaWgidV8rOu6JiyHUKZMglj5tQ==",
+  "dgSpecHash": "a/4U4Zn7AvcaTATX7hvE2/6n9DC0MhPGBR53Ufe0mvX0zNyyE8G1kBDX3mp2PmV0HsBHt/jv/RoBQjMGHkF7WQ==",
   "success": true,
-  "projectFilePath": "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
+  "projectFilePath": "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj": {}
+    "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj": {
+    "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
+        "projectUniqueName": "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
         "projectName": "Ocelot.ApiGateway",
-        "projectPath": "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
+        "projectPath": "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\Ocelot.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\WangZhen.Techniques\\src\\ApiGateways\\Ocelot\\obj\\",
+        "outputPath": "C:\\Project\\Techniques\\src\\ApiGateways\\Ocelot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

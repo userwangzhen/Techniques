@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYTk07nOEZZOy013QqQZ2t52aiV7A3b+Vbfmv4eN3FJlsdHWyWUdGPmJEYisK2cQiMhVYrbsmB2PzLo1Tz69/A==",
+  "dgSpecHash": "723SIZgaqMRedxfZDZJuUfT8wV6EweoGTnjtdo2YKBHT3+pG2kddg5Vi96vUEy4FBmo4zKzUDo8CAzElYWOS+g==",
   "success": true,
-  "projectFilePath": "C:\\Project\\WangZhen.Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
+  "projectFilePath": "C:\\Project\\Techniques\\src\\Services\\Shop\\Shop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.3\\microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",
